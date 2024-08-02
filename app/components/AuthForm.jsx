@@ -12,7 +12,7 @@ const supabase = createClientComponentClient();
         view="magic_link"
         showLinks={false}
         providers={[]}
-        redirectTo="http://watch-list-two.vercel.app/auth/callback"
+        redirectTo="https://watch-list-two.vercel.app/auth/callback"
         appearance={
             {
                 theme: 'dark',
